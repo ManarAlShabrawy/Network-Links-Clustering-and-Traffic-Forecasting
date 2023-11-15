@@ -1,6 +1,5 @@
 # Network-Links-Clustering-and-Traffic-Forecasting
 Master's Graduation Project
-# GitHub Repository README
 
 ## Network Links Clustering and Utilization Forecasting
 
@@ -15,6 +14,7 @@ Make sure to install the necessary Python libraries before running the code. You
 !pip install minisom
 !pip install tslearn
 !pip install prophet
+```
 
 ### Interfaces and Utilities
 
